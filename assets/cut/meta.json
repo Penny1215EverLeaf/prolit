@@ -1,0 +1,42 @@
+{
+  "computer": {
+    "left": 24.375,
+    "top": 37.344,
+    "width": 32.917,
+    "height": 46.562,
+    "file": "assets/cut/computer.png",
+    "glow": "assets/cut/computer_glow.png"
+  },
+  "folders": {
+    "left": 78.958,
+    "top": 50.938,
+    "width": 21.042,
+    "height": 32.344,
+    "file": "assets/cut/folders.png",
+    "glow": "assets/cut/folders_glow.png"
+  },
+  "frames": {
+    "left": 76.25,
+    "top": 17.5,
+    "width": 23.75,
+    "height": 22.5,
+    "file": "assets/cut/frames.png",
+    "glow": "assets/cut/frames_glow.png"
+  },
+  "wall": {
+    "left": 0.0,
+    "top": 27.187,
+    "width": 17.917,
+    "height": 64.375,
+    "file": "assets/cut/wall.png",
+    "glow": "assets/cut/wall_glow.png"
+  },
+  "badge": {
+    "left": 26.146,
+    "top": 12.188,
+    "width": 6.979,
+    "height": 19.375,
+    "file": "assets/cut/badge.png",
+    "glow": "assets/cut/badge_glow.png"
+  }
+}
